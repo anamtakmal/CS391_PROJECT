@@ -7,7 +7,7 @@
   "start": "next start"
   },
   "dependencies": {
-    "@headlessui/next": "^14.2.15",
+    "next": "^14.2.15",
     "@headlessui/react": "^2.2.9",
     "@hookform/resolvers": "^3.10.0",
     "@jridgewell/trace-mapping": "^0.3.25",
