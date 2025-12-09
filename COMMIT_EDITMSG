@@ -1,0 +1,10 @@
+Update product displays and AI preview generation with new designs
+
+Refactors client-side components to introduce new product details, visual elements, and UI enhancements. Updates server-side API route for AI-generated previews to include request body validation using Zod and conditionally initializes the OpenAI client when the API key is present.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e783bf9c-71ae-4510-9893-52c507665cbd
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 36e7c8c3-d876-44b8-9735-0dd017e7b74a
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/cd36855d-737d-40fe-9da5-f269954fe0f8/e783bf9c-71ae-4510-9893-52c507665cbd/MNqOrZo
+Replit-Helium-Checkpoint-Created: true
