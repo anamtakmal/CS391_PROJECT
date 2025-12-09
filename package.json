@@ -1,15 +1,12 @@
 {
-  "name": "rest-express",
+  "name": "cs391-project",
   "version": "1.0.0",
-  "type": "module",
-  "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=development tsx server/index.ts",
-    "build": "tsx script/build.ts",
-    "start": "NODE_ENV=production node dist/index.cjs",
-    "check": "tsc",
-    "db:push": "drizzle-kit push"
-  },
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+},
   "dependencies": {
     "@headlessui/react": "^2.2.9",
     "@hookform/resolvers": "^3.10.0",
